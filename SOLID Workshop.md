@@ -1,4 +1,4 @@
-# SOLID Workshop - Javascript
+# SOLID Workshop
 
 ### Purpose
 
